@@ -8,4 +8,5 @@ def mode2():
 
 def mode3():
     print ("adding code for ML model3")
-    
+
+print ("model 2 is performing the best")
